@@ -12,6 +12,8 @@
 }
 h4.charFeats {
     text-align: left;
+    margin-left: 0rem;
+    margin-right: 0rem;
 }
 .charFeats {
     font-weight: bold;
